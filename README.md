@@ -1,4 +1,4 @@
-![logo](https://github.com/codemyown/codemyown/blob/main/banner.png)
+![logo](https://github.com/codemyown/Log_Ingestor_Assignment/blob/main/first.jpg)
 
 # Log_Ingestor_Assignment
 
