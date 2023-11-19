@@ -1,6 +1,10 @@
 # Frontend page
 ![logo](https://github.com/codemyown/Log_Ingestor_Assignment/blob/main/first.jpg)
 
+
+
+![logo](https://github.com/codemyown/Log_Ingestor_Assignment/blob/main/second.jpg)
+
 # Log_Ingestor_Assignment
 
 I have created this assignment using the Django framework in Python and employed the SQLite database.
