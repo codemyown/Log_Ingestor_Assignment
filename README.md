@@ -1,3 +1,5 @@
+![logo](https://github.com/codemyown/codemyown/blob/main/banner.png)
+
 # Log_Ingestor_Assignment
 
 I have created this assignment using the Django framework in Python and employed the SQLite database.
