@@ -5,6 +5,10 @@
 
 ![logo](https://github.com/codemyown/Log_Ingestor_Assignment/blob/main/second.jpg)
 
+
+# admin Page
+![logo](https://github.com/codemyown/Log_Ingestor_Assignment/blob/main/third.jpg)
+
 # Log_Ingestor_Assignment
 
 I have created this assignment using the Django framework in Python and employed the SQLite database.
